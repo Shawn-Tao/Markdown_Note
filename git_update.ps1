@@ -1,4 +1,7 @@
 git add .
 git commit -m "message"
-git pull Markdown_Note master
-git push Markdown_Note master
+git pull GITEE master
+git push GITEE master
+
+git pull GITHUB master
+git push GITHUB master
